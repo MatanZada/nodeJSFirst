@@ -1,4 +1,4 @@
-# Home Work 17.30.12-mongo-node-JS
+# Home Work 30.12-mongo-node-JS
 1 Create an npm project: (Not in the hacker U project please).
 2 Plese create an js file (app.js\index.js your choice).
 3 Please add (start script like we learnd)
